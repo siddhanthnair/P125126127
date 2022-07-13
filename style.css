@@ -1,0 +1,40 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px aquamarine;
+}
+
+body{
+    background-color: aqua;
+
+}
+
+.note{
+    font-size:15px;
+    color: black;
+}
+
+#text_size{
+    font-size: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: black;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;;
+    line-height: 3;
+    background-color: grey;
+}
+
+canvas, video{
+    border-width:5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
+
